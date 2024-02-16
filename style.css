@@ -1,0 +1,87 @@
+body {
+    background: linear-gradient(to right, #3cd6ff, #4554f6);
+}
+
+.police {
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.lien {
+    font-size: 15px;
+}
+
+.bouton {
+    width: 220px;
+    height: 30x;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 15px 20px;
+    background: linear-gradient(to right, #61ffe3, #a2a1f9);
+}
+
+.bouton2 {
+    width: 230px;
+    height: 30x;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 10px 15px;
+    background: linear-gradient(to right, #61ffe3, #a2a1f9);
+}
+
+.input {
+    width: 300px;
+    height: 10x;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 10px 10px;
+    background: linear-gradient(to right, #42ddda, #ccf4f3);
+}
+
+.erreur {
+    color: red;
+    font-size: 20px;
+}
+
+.connexion {
+    text-align: center;
+    width: 220px;
+    height: 30x;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 15px 20px;
+}
+
+.score {
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.classement {
+    font-family: Arial, sans-serif;
+    border: 2px solid #000;
+    border-radius: 20px;
+    padding: 20px 30px;
+    width: 525px;
+    height: 600px;
+    background: linear-gradient(to right, #a2a1f9, #47dcdb);
+}
+
+.boutonRetour {
+    width: 150px;
+    height: 20x;
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 5px 5px;
+    background: linear-gradient(to right, #61ffe3, #a2a1f9);
+}
+
+.label {
+    width: 15px;
+    height: 20x;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 5px 5px;
+    background: linear-gradient(to right, #42ddda, #ccf4f3);
+}
